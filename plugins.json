@@ -315,6 +315,11 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
-		}
+		},
+		{
+			"name": "DreamRandomItemChallenge",
+			"desc": "Recreatoin of Dream's plugin in the Minecraft Random Challenge VS 2 Hunters Video",
+			"jarName": "DreamRandomItemChallenge.jar",
+			"configName": "DreamItemChallenge"
 	]
 }
